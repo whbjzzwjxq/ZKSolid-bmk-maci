@@ -1,5 +1,6 @@
 include "./ecdh.circom";
 include "./unpackElement.circom";
+include "./poseidonDecrypt.circom";
 include "../node_modules/circomlib/circuits/bitify.circom";
 include "../node_modules/circomlib/circuits/poseidon.circom";
 
